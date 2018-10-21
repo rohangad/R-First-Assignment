@@ -12,4 +12,4 @@ When applying an operation to two vectors that requires them to be the same leng
 
 
 3. Give an example of recycling of elements.
-
+Please find attached the example
